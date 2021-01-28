@@ -1,3 +1,43 @@
+# Kicklox
+
+This is the test for kicklox.
+The test is simple.
+
+## Usage
+
+- git clone the project
+- cd kicklox 
+- yarn 
+- yarn start-server 
+- yarn start
+
+The server runs on PORT 3007 and the client on 3006.
+The data is generated with faker.
+
+# TODO:
+- add style
+- format date
+- enhance data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
